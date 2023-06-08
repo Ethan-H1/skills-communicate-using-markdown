@@ -12,4 +12,9 @@ if x > 30:
 print(x + y)
 ``
 
+- [x] Be awesome
+- [ ] Be amazing
+- [ ] Be cool
+- [x] Be lame
+
 Added two headers
